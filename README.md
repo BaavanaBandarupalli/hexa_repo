@@ -1,1 +1,1 @@
-# java_case_study
+# java_project
